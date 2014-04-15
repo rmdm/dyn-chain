@@ -6,5 +6,8 @@
   "license": "MIT",
   "author": "Dmitry Rumyantsev",
   "repository": "git://github.com/rmdm/dyn-chain",
-  "main": "lib/dyn-chain.js"
+  "main": "lib/dyn-chain.js",
+  "devDependencies": {
+    "jasmine-node": "~1.14.3"
+  }
 }

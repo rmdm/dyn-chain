@@ -1,6 +1,6 @@
 describe('Dynamic chain', function(){
  
-  var chain = require('dyn-chain');
+  var chain = require('../lib/dyn-chain');
   
   chain.define('b', ['a'], function(a){
     return function(){

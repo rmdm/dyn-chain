@@ -1,4 +1,4 @@
-dyn-chain
-=========
+Dynamic chain
+=======
 
-Allows to define a chain of calls, that can be dynamically changed
+Allows to define a chain of calls, that can be dynamically changed.

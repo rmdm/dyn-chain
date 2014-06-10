@@ -1,6 +1,6 @@
 {
   "name": "dyn-chain",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Allows to define a chain of calls, that can be dynamically changed",
   "bugs": "http://github.com/rmdm/dyn-chain/issues",
   "license": "MIT",
